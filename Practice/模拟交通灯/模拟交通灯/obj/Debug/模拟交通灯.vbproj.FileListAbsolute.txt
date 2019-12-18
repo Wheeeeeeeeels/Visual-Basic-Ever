@@ -1,0 +1,12 @@
+C:\Users\wuhao\source\repos\模拟交通灯\模拟交通灯\bin\Debug\模拟交通灯.exe.config
+C:\Users\wuhao\source\repos\模拟交通灯\模拟交通灯\bin\Debug\模拟交通灯.exe
+C:\Users\wuhao\source\repos\模拟交通灯\模拟交通灯\bin\Debug\模拟交通灯.pdb
+C:\Users\wuhao\source\repos\模拟交通灯\模拟交通灯\bin\Debug\模拟交通灯.xml
+C:\Users\wuhao\source\repos\模拟交通灯\模拟交通灯\obj\Debug\模拟交通灯.Form1.resources
+C:\Users\wuhao\source\repos\模拟交通灯\模拟交通灯\obj\Debug\模拟交通灯.Resources.resources
+C:\Users\wuhao\source\repos\模拟交通灯\模拟交通灯\obj\Debug\模拟交通灯.vbproj.GenerateResource.cache
+C:\Users\wuhao\source\repos\模拟交通灯\模拟交通灯\obj\Debug\模拟交通灯.vbproj.CoreCompileInputs.cache
+C:\Users\wuhao\source\repos\模拟交通灯\模拟交通灯\obj\Debug\模拟交通灯.exe
+C:\Users\wuhao\source\repos\模拟交通灯\模拟交通灯\obj\Debug\模拟交通灯.xml
+C:\Users\wuhao\source\repos\模拟交通灯\模拟交通灯\obj\Debug\模拟交通灯.pdb
+C:\Users\wuhao\source\repos\模拟交通灯\模拟交通灯\obj\Debug\模拟交通灯.vbprojAssemblyReference.cache
