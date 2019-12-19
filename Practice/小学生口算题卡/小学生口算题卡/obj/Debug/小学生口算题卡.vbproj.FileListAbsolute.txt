@@ -1,0 +1,12 @@
+C:\Users\wuhao\source\repos\小学生口算题卡\小学生口算题卡\bin\Debug\小学生口算题卡.exe.config
+C:\Users\wuhao\source\repos\小学生口算题卡\小学生口算题卡\bin\Debug\小学生口算题卡.exe
+C:\Users\wuhao\source\repos\小学生口算题卡\小学生口算题卡\bin\Debug\小学生口算题卡.pdb
+C:\Users\wuhao\source\repos\小学生口算题卡\小学生口算题卡\bin\Debug\小学生口算题卡.xml
+C:\Users\wuhao\source\repos\小学生口算题卡\小学生口算题卡\obj\Debug\小学生口算题卡.vbprojAssemblyReference.cache
+C:\Users\wuhao\source\repos\小学生口算题卡\小学生口算题卡\obj\Debug\小学生口算题卡.Form1.resources
+C:\Users\wuhao\source\repos\小学生口算题卡\小学生口算题卡\obj\Debug\小学生口算题卡.Resources.resources
+C:\Users\wuhao\source\repos\小学生口算题卡\小学生口算题卡\obj\Debug\小学生口算题卡.vbproj.GenerateResource.cache
+C:\Users\wuhao\source\repos\小学生口算题卡\小学生口算题卡\obj\Debug\小学生口算题卡.vbproj.CoreCompileInputs.cache
+C:\Users\wuhao\source\repos\小学生口算题卡\小学生口算题卡\obj\Debug\小学生口算题卡.exe
+C:\Users\wuhao\source\repos\小学生口算题卡\小学生口算题卡\obj\Debug\小学生口算题卡.xml
+C:\Users\wuhao\source\repos\小学生口算题卡\小学生口算题卡\obj\Debug\小学生口算题卡.pdb
